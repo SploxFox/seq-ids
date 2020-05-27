@@ -1,0 +1,23 @@
+{
+  "name": "seq-ids",
+  "version": "1.0.0",
+  "description": "Generates a sequential ID, which increments by 1 every time you generate it.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sequential",
+    "sequid",
+    "rolling",
+    "id",
+    "ids"
+  ],
+  "author": "Splox",
+  "license": "MIT",
+  "devDependencies": {
+    "typedoc": "^0.17.7",
+    "typedoc-plugin-markdown": "^2.2.17",
+    "typescript": "^3.9.3"
+  }
+}
