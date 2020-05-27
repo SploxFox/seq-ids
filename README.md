@@ -1,3 +1,8 @@
+## Installation
+```
+npm i seq-ids
+```
+
 ## Note
 This is for things that don't need to be secure at all. If you need something for something like a customer database, please use UUIDs.
 
